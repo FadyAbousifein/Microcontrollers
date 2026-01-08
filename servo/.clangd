@@ -1,0 +1,6 @@
+CompileFlags:
+  Add: [
+    "-I/home/fady/Arduino/libraries/Servo/src",
+    "-I/home/fady/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino",
+    "-I/home/fady/.arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard"
+  ]

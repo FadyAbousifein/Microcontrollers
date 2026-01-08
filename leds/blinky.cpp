@@ -11,7 +11,7 @@ bool lastButtonState {HIGH};
 
 void setup() {
   pinMode(ledPin, OUTPUT); 
-  pinMode(buttonPin, INPUT_PULLUP); 
+  pinMode(buttonPin, INPUT_PULLUP);
 }
 
 
