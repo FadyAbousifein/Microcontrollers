@@ -6,7 +6,7 @@ MKVERSION = 1.0
 OSNAME = $(shell uname)
 
 # CONFIGURE THESE FOR YOUR PROJECT:
-PROJECT := Arduino
+PROJECT := blinky 
 VERSION ?= 1.0
 ARDUINO_MODEL ?= uno
 PORT ?= /dev/ttyACM0
